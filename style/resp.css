@@ -9,7 +9,13 @@
     width: 300px;
     }
     .title a {
-        font-size: 25px;
+        font-size: 22px;
+    }
+    .title {
+        margin-top: 25px;
+    }
+    .subtitle {
+        margin-top: 5px;
     }
     .main {
         background-position: center;
